@@ -2,7 +2,7 @@
 
 ### README Introduction
 
-Welcome to my portfolio repository! This repository showcases the culmination of my work throughout the Computer Science program, focusing on Agile and Scrum methodologies. Within this repository, you'll find key artifacts from my final project, including the Sprint Review and Retrospective deliverable, which highlight my application of Agile practices and reflect on my development journey.
+Welcome to my portfolio repository! This repository showcases the culmination of my work throughout the course Software Development Lifecycle, focusing on Agile and Scrum methodologies. Within this repository, you'll find key artifacts from my final project, including the Sprint Review and Retrospective deliverable, which highlight my application of Agile practices and reflect on my development journey.
 
 This README provides insights into how I interpret user needs, approach program development, and contribute as a team member. By exploring the included documents and responses to essential questions, you will gain an understanding of my approach to software development, the integration of user stories, and the Agile processes I plan to incorporate into future projects. 
 
