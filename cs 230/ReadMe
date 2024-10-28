@@ -1,0 +1,36 @@
+Draw It or Lose It - Gaming Room Project
+Overview
+Client: The Gaming Room
+Project: Draw It or Lose It - Web-Based Game Development
+Prepared by: Vonds Auguste, Creative Technology Solutions
+Document Version: 2.0 (Last updated 10/05/2024)
+
+The Gaming Room tasked Creative Technology Solutions with developing a web-based version of Draw It or Lose It, a team-based drawing game where teams guess puzzles from rendered images. The requirements highlighted the need for scalable software, allowing multiple teams and players, and ensured that only one game instance remains active at a time.
+
+Key Requirements
+The software for Draw It or Lose It is designed to meet the following key requirements:
+
+Scalability: Supports multiple concurrent teams and players within the same game session.
+Performance: Smooth image rendering with minimal lag, ensuring a seamless guessing experience.
+Security: Secure user authentication, encrypted data, and unique game/team names to prevent duplication.
+Usability: An intuitive, accessible UI compatible across desktop, mobile, and tablet platforms.
+Maintainability: Modular design with clean code practices for future updates and enhancements.
+Highlights of Documentation Development
+The documentation for Draw It or Lose It was designed with a focus on clarity and structure, which streamlined communication with the client and development team. The use of object-oriented design principles, specifically the Singleton pattern for instance management and Iterator pattern for game and team handling, helped ensure a robust design.
+
+Design Process and Insights
+Documenting the software design before coding provided a structured framework, allowing for a clear understanding of system requirements and constraints. This process was particularly beneficial in visualizing relationships within the domain model (game, team, player, etc.) and strategizing memory management for scalability.
+
+Areas for Revision
+If given the chance, I would refine the system architecture view by including more detailed subsystem interactions and logical topologies, aiding future developers in understanding communication flows. This would enhance the clarity of deployment and infrastructure requirements.
+
+User-Centric Design Approach
+By centering design decisions around user requirements, such as quick response times and cross-platform accessibility, we ensured a user-friendly experience for all players. This focus on user needs not only improves player satisfaction but also strengthens system usability and adoption.
+
+Software Design Strategies
+The approach to designing Draw It or Lose It emphasized scalability and security, using the following techniques:
+
+Object-Oriented Design: Leveraged patterns like Singleton for instance control and Iterator for entity management.
+Distributed System Architecture: Recommended RESTful APIs for interaction and WebSockets for real-time updates.
+Cross-Platform Compatibility: Focused on using flexible development frameworks like React for frontend and Node.js or Python for backend services.
+For future projects, additional strategies such as component-based microservices and enhanced cloud storage management will be employed to ensure even greater modularity and efficiency in scaling applications.
